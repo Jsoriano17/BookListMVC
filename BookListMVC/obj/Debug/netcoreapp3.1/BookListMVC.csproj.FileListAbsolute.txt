@@ -439,3 +439,4 @@
 /Users/SomeWeirdWizard/Desktop/C#/BookListMVC/BookListMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/SomeWeirdWizard/Desktop/C#/BookListMVC/BookListMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/SomeWeirdWizard/Desktop/C#/BookListMVC/BookListMVC/obj/Debug/netcoreapp3.1/Razor/Views/Books/Index.cshtml.g.cs
+/Users/SomeWeirdWizard/Desktop/C#/BookListMVC/BookListMVC/obj/Debug/netcoreapp3.1/Razor/Views/Books/Upsert.cshtml.g.cs
